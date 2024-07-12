@@ -1,0 +1,6 @@
+.header-image {
+    height: 300px; /* Adjust the height as per your design */
+    width: 100%; /* Maintain image width as 100% of its container */
+    object-fit: cover; /* Ensure the image covers the entire container */
+  }
+  
